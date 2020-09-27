@@ -1,0 +1,1 @@
+acct1.withdraw(2000)
